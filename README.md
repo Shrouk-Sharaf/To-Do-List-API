@@ -3,18 +3,6 @@
 ## 📌 Overview
 A RESTful API for managing tasks, built with Node.js, Express, and Sequelize ORM with MySQL database support. This project demonstrates basic CRUD operations and database modeling.
 
-## 🗂 Project Structure
-
-```
-To-Do-List-API/
-├── server.js            # Main Express application
-├── db.js               # Database configuration
-├── task.js             # Task model definition
-├── package.json        # Project dependencies
-├── package-lock.json
-└── README.md           # This documentation
-```
-
 ## ✨ Features
 
 - RESTful endpoints for task management
